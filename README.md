@@ -12,3 +12,4 @@ wiring nodemcu :
   out - A0
 
 port : 1234
+wifi_mic.py untuk membuka audio di PC
