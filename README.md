@@ -1,5 +1,5 @@
 # wifi_microphon_udp
-esp8266 wifi microphone
+esp8266 wifi microphone via UDP 
 
 alat : 
   1. nodemcu esp8266
@@ -10,3 +10,5 @@ wiring nodemcu :
   vcc - vcc
   gnd - gnd
   out - A0
+
+port : 1234
